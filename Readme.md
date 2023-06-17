@@ -6,3 +6,9 @@ This is a repository of recipes for the Odin Project.
 
 - Git basics
 - HTML and CSS basics
+
+## Recipes
+
+- Pizza
+- Fried Rice
+- Fried Chicken
